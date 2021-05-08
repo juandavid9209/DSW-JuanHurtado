@@ -1,0 +1,19 @@
+.iconos-nav{
+    width: 30px;
+    margin: 5px 5px;
+}
+
+.fondocol{
+    background-color: #2cd4d9;
+    padding: 10px 0;
+}
+
+.fondopag{
+    background-color: #d4ebde;
+}
+
+footer{
+    padding: 30px 0;
+    text-align: center;
+    background-color: #2cd4d9;
+}
